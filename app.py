@@ -5,7 +5,7 @@ import pandas as pd
 import plotly_express as px
 
 # Leemos el conjunto de datos sobre los anuncios de ventas de coches
-df_ads = pd.read_csv(r'C:\Users\david\Documents\Programacion\Web_App_Coin_Tosser\sprint4project\vehicles_us.csv')
+df_ads = pd.read_csv("vehicles_us.csv")
 
 st.header('¡Bienvenidx! Aquí encontrarás información sobre los coches que anunciamos')
 
