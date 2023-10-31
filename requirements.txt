@@ -1,0 +1,5 @@
+pandas
+nbformat
+plotly-express
+streamlit
+altair
